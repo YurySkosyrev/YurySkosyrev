@@ -13,26 +13,30 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h3>📫 How to reach me: https://t.me/YurySkosyrev</h3>
+<h3>🔭 📫 How to reach me:</h3>
+<UL>
+<li><a href = "https://t.me/YurySkosyrev">Telegram</a></li>
+<li>skosyrev-87@mail.ru</li> 
+</UL>
 
-<h3>🔭 My interships</h3>
+<h3>🔭 My interships:</h3>
 <UL>
 <li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a></li>
 <li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development spring 2023</a></li> 
 </UL>
 
-<h3>🌱 My pet-projects</h3>
+<h3>🌱 My pet-projects:</h3>
 <UL>
 <li><a href = "https://github.com/YurySkosyrev/Sweeter">Twitter-clone</a></li>
 <li><a href = "https://github.com/YurySkosyrev/JavaSweeper">Windows minesweeper</a></li>
 </UL>
 
-<h3>📝 My test tasks</h3>
+<h3>📝 My test tasks:</h3>
 <UL>
 <li><a href = "https://github.com/YurySkosyrev/gridnine-testing">Gridnine Systems</a></li>
 </UL>
 
-<h3>👨‍💻 My courses</h3>
+<h3>👨‍💻 My courses:</h3>
 <UL>
 <li><a href = "https://stepik.org/course/187/">Stepik.org Java basic course</a> / <a href = "https://github.com/YurySkosyrev/StepikJava">repository</a></li>
 <li><a href = "https://www.udemy.com/course/spring-framework/">Spring for beginners. Tregulov</a> / <a href = "https://github.com/YurySkosyrev/SpringCourseUdemy">repository</a></li>
