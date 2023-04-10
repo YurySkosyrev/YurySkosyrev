@@ -24,4 +24,17 @@
 <h3>🌱 My pet-projects</h3>
 <UL>
 <li><a href = "https://github.com/YurySkosyrev/Sweeter">Twitter-clone</a></li>
+<li><a href = "https://github.com/YurySkosyrev/JavaSweeper">Windows minesweeper</a></li>
+</UL>
+
+<h3>👨‍💻 My courses</h3>
 <UL>
+<li><a href = "https://stepik.org/course/187/">Stepik.org Java basic course</a> / <a href = "https://github.com/YurySkosyrev/StepikJava">repository</a></li>
+<li><a href = "https://www.udemy.com/course/spring-framework/">Spring for beginners. Tregulov</a> / <a href = "https://github.com/YurySkosyrev/SpringCourseUdemy">repository</a></li>
+<li><a href = "https://www.udemy.com/course/java-ot-zaura/">Java get black belt. Tregulov</a> / <a href = "https://github.com/YurySkosyrev/JavaGetTheBlackBeltUdemy">repository</a></li>
+<li><a href = "https://www.udemy.com/course/docker-ru/">Docker. Full course. Stashchuk</a> / <a href = "https://github.com/YurySkosyrev/DockerTheFullCourseUdemy">repository</a></li>
+<li><a href = "https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1">Git guide. Javascript.ru</a> / <a href = "https://github.com/YurySkosyrev/GitCourse">repository</a></li>
+<li><a href = "https://www.youtube.com/watch?v=7uxROJ1nduk">Spring Security Basics</a> / <a href = "https://github.com/YurySkosyrev/springSecurityBasic">repository</a></li>
+<li><a href = "https://www.udemy.com/course/spring-dmdev/">Spring. Matveyenka</a> / <a href = "https://github.com/YurySkosyrev/SpringCourseMatveyenka">repository</a></li>  
+<li><a href = "https://www.udemy.com/course/java2-dmdev/">Java level 2. Matveyenka</a> / <a href = "https://github.com/YurySkosyrev/JavaPart2Matveyenka">repository</a></li>  
+</UL>
