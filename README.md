@@ -13,9 +13,15 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2>📫 How to reach me: https://t.me/YurySkosyrev</h2>
+<h3>📫 How to reach me: https://t.me/YurySkosyrev</h3>
 
 <h3>🔭 My interships</h3>
-- <a href = "https://github.com/YurySkosyrev/Y_LabSpring"><h2>Y_LAB Development autumn 2022</h2></a> 
-- <a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a> 
+<UL>
+<li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a></li>
+<li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development spring 2023</a></li> 
+</UL>
 
+<h3>🌱 My pet-projects</h3>
+<UL>
+<li><a href = "https://github.com/YurySkosyrev/Sweeter">Twitter-clone</a></li>
+<UL>
