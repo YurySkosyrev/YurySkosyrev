@@ -38,13 +38,13 @@
 
 <h3>👨‍💻 My courses:</h3>
 <UL>
-<li><a href = "https://stepik.org/course/187/">Stepik.org Java basic course</a> / <a href = "https://github.com/YurySkosyrev/StepikJava">repository</a></li>
-<li><a href = "https://www.udemy.com/course/spring-framework/">Spring for beginners. Tregulov</a> / <a href = "https://github.com/YurySkosyrev/SpringCourseUdemy">repository</a></li>
-<li><a href = "https://www.udemy.com/course/java-ot-zaura/">Java get black belt. Tregulov</a> / <a href = "https://github.com/YurySkosyrev/JavaGetTheBlackBeltUdemy">repository</a></li>
-<li><a href = "https://www.udemy.com/course/docker-ru/">Docker. Full course. Stashchuk</a> / <a href = "https://github.com/YurySkosyrev/DockerTheFullCourseUdemy">repository</a></li>
-<li><a href = "https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1">Git guide. Javascript.ru</a> / <a href = "https://github.com/YurySkosyrev/GitCourse">repository</a></li>
-<li><a href = "https://www.youtube.com/watch?v=7uxROJ1nduk">Spring Security Basics</a> / <a href = "https://github.com/YurySkosyrev/springSecurityBasic">repository</a></li>
-<li><a href = "https://www.udemy.com/course/spring-dmdev/">Spring. Matveyenka</a> / <a href = "https://github.com/YurySkosyrev/SpringCourseMatveyenka">repository</a></li>  
-<li><a href = "https://www.udemy.com/course/java2-dmdev/">Java level 2. Matveyenka</a> / <a href = "https://github.com/YurySkosyrev/JavaPart2Matveyenka">repository</a></li>  
-<li><a href = "https://www.youtube.com/watch?v=Jnd4PQt44j0&list=PLU2ftbIeotGoQGD51e0qb98lE0xhgNDF1">Servlets. LetsCode</a> / <a href = "https://github.com/YurySkosyrev/servletLetsCode">repository</a></li>
+<li><a href = "https://github.com/YurySkosyrev/StepikJava">Java basic course.</a> Stepik.org</li>
+<li><a href = "https://github.com/YurySkosyrev/SpringCourseUdemy">Spring for beginners. Tregulov.</a> Udemy</li>
+<li><a href = "https://github.com/YurySkosyrev/JavaGetTheBlackBeltUdemy">Java get black belt. Tregulov.</a> Udemy</li>
+<li><a href = "https://github.com/YurySkosyrev/DockerTheFullCourseUdemy">Docker. Full course. Stashchuk.</a> Udemy</li>
+<li><a href = "https://github.com/YurySkosyrev/GitCourse">Git guide. Javascript.ru</a> Youtube</li>
+<li><a href = "https://github.com/YurySkosyrev/springSecurityBasic">Spring Security Basics.</a> Youtube</li>
+<li><a href = "https://github.com/YurySkosyrev/SpringCourseMatveyenka">Spring. Matveyenka.</a> Udemy</li>  
+<li><a href = "https://github.com/YurySkosyrev/JavaPart2Matveyenka">Java level 2. Matveyenka.</a> Udemy</li>  
+<li><a href = "https://github.com/YurySkosyrev/servletLetsCode">Servlets. LetsCode.</a> Youtube</li>
 </UL>
