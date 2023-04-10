@@ -15,7 +15,7 @@
 
 <h2>📫 How to reach me: https://t.me/YurySkosyrev</h2>
 
-<h3>🔭 My interships
+<h3>🔭 My interships</h3>
+- <a href = "https://github.com/YurySkosyrev/Y_LabSpring"><h2>Y_LAB Development autumn 2022</h2></a> 
 - <a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a> 
-- <a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a> 
-</h3>
+
