@@ -42,7 +42,7 @@
 <li><a href = "https://github.com/YurySkosyrev/SpringCourseUdemy">Spring for beginners. Tregulov.</a> Udemy</li>
 <li><a href = "https://github.com/YurySkosyrev/JavaGetTheBlackBeltUdemy">Java get black belt. Tregulov.</a> Udemy</li>
 <li><a href = "https://github.com/YurySkosyrev/DockerTheFullCourseUdemy">Docker. Full course. Stashchuk.</a> Udemy</li>
-<li><a href = "https://github.com/YurySkosyrev/GitCourse">Git guide. Javascript.ru</a> Youtube</li>
+<li><a href = "https://github.com/YurySkosyrev/git-course">Git guide. Javascript.ru</a> Youtube</li>
 <li><a href = "https://github.com/YurySkosyrev/springSecurityBasic">Spring Security Basics.</a> Youtube</li>
 <li><a href = "https://github.com/YurySkosyrev/SpringCourseMatveyenka">Spring. Matveyenka.</a> Udemy</li>  
 <li><a href = "https://github.com/YurySkosyrev/JavaPart2Matveyenka">Java level 2. Matveyenka.</a> Udemy</li>  
