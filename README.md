@@ -21,8 +21,8 @@
 
 <h3>🔭 My interships:</h3>
 <UL>
-<li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development autumn 2022</a></li>
-<li><a href = "https://github.com/YurySkosyrev/Y_LabSpring">Y_LAB Development spring 2023</a></li> 
+<li><a href = "https://github.com/YurySkosyrev/ylab-autumn-intership-2022">Y_LAB Development autumn 2022</a></li>
+<li><a href = "https://github.com/YurySkosyrev/ylab-spring-intership-2023">Y_LAB Development spring 2023</a></li> 
 </UL>
 
 <h3>🌱 My pet-projects:</h3>
