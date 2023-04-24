@@ -47,6 +47,7 @@
 <li><a href = "https://github.com/YurySkosyrev/SpringCourseMatveyenka">Spring. Matveyenka.</a> Udemy</li>  
 <li><a href = "https://github.com/YurySkosyrev/java-part2-matveyenka">Java level 2. Matveyenka.</a> Udemy</li>
 <li><a href = "https://github.com/YurySkosyrev/hibernate-course">Hibernate. Matveyenka.</a> Udemy</li>  
+<li><a href = "https://github.com/YurySkosyrev/jdbc-course">JDBC. Matveyenka.</a> Udemy</li> 
 <li><a href = "https://github.com/YurySkosyrev/junit5-course">JUnit5. Matveyenka.</a> Udemy</li>  
 <li><a href = "https://github.com/YurySkosyrev/servletLetsCode">Servlets. LetsCode.</a> Youtube</li>
 </UL>
