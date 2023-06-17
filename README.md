@@ -49,5 +49,6 @@
 <li><a href = "https://github.com/YurySkosyrev/hibernate-course">Hibernate. Matveyenka.</a> Udemy</li>  
 <li><a href = "https://github.com/YurySkosyrev/jdbc-course">JDBC. Matveyenka.</a> Udemy</li> 
 <li><a href = "https://github.com/YurySkosyrev/junit5-course">JUnit5. Matveyenka.</a> Udemy</li>  
+<li><a href = "https://github.com/YurySkosyrev/sql-course">SQL. Matveyenka.</a> Udemy</li>  
 <li><a href = "https://github.com/YurySkosyrev/servletLetsCode">Servlets. LetsCode.</a> Youtube</li>
 </UL>
